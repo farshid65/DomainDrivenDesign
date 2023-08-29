@@ -1,0 +1,5 @@
+C:\Users\pouya\source\repos\Marketplace\Core.Domain\obj\Debug\net6.0\Core.Domain.csproj.AssemblyReference.cache
+C:\Users\pouya\source\repos\Marketplace\Core.Domain\obj\Debug\net6.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pouya\source\repos\Marketplace\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfoInputs.cache
+C:\Users\pouya\source\repos\Marketplace\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfo.cs
+C:\Users\pouya\source\repos\Marketplace\Core.Domain\obj\Debug\net6.0\Core.Domain.csproj.CoreCompileInputs.cache

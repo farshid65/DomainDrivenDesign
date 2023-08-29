@@ -1,0 +1,15 @@
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\bin\Debug\net6.0\Marketplace.Domain.deps.json
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\bin\Debug\net6.0\Marketplace.Domain.dll
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\bin\Debug\net6.0\Marketplace.Domain.pdb
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\bin\Debug\net6.0\Marketplace.Framework.dll
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\bin\Debug\net6.0\Marketplace.Framework.pdb
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\Marketplace.Domain.csproj.AssemblyReference.cache
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\Marketplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\Marketplace.Domain.AssemblyInfoInputs.cache
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\Marketplace.Domain.AssemblyInfo.cs
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\Marketplace.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\Marketplace.Domain.csproj.CopyComplete
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\Marketplace.Domain.dll
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\refint\Marketplace.Domain.dll
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\Marketplace.Domain.pdb
+C:\Users\pouya\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net6.0\ref\Marketplace.Domain.dll
